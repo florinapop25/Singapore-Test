@@ -50,7 +50,7 @@ define( ["qlik","jquery", "text!./style.css", "text!./template.html"], function 
 									ref : "boxCss",
 									label : "Add more css styling for each element here",
 									type : "string",
-									defaultValue : "width:10%;height: 10%; font-size: 200%;text-align: center; padding-top: 10px; padding-bottom: 30px; margin-bottom: 20px; margin-left: 10px; padding-top: 80px; padding-left:30px; padding-right: 37px; margin-top: 20px;"						
+									defaultValue : "width:10%;"						
 								},{
 									ref : "gotoSheet",
 									label : "On click, go to Sheet id (leave empty for no sheet navigation)",
